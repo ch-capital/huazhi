@@ -1,0 +1,18 @@
+{
+  "name": "huazhi-future",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^2.12.0",
+    "react-force-graph-2d": "^1.25.2"
+  }
+}
